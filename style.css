@@ -125,6 +125,7 @@ a:hover {
 }
 .btn_btn-info {
     position: absolute;
+    cursor: pointer;
     width: 160px;
     height: 60px;
     left: 120px;
@@ -252,6 +253,7 @@ form .field {
 
 form .btn {
     position: absolute;
+    cursor: pointer;
     width: 120px;
     height: 60px;
     left: 930px;
